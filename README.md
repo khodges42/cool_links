@@ -6,6 +6,7 @@ Videos
 - [Brandon Beck D.I.C.E. Talk](https://www.youtube.com/watch?v=6PxxExsVA_Y)
 - [GDC Magic The Gathering Talk](https://www.youtube.com/watch?v=QHHg99hwQGY)
 - [Action Button Youtube Channel](https://www.youtube.com/user/ActionButtonDotCom)
+- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337)
 
 Text
 -----
