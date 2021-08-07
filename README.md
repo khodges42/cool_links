@@ -14,6 +14,7 @@ Text
 - [Cracking the Code Interview](https://www.crackingthecodinginterview.com/)
 - [Julia Evans Comics](https://wizardzines.com/)
 - [Riot Dev Blog](https://na.leagueoflegends.com/en-us/news/dev/)
+- [How to contribute to open source](https://opensource.guide/how-to-contribute/)
 
 My Talks and Stuff
 -----
